@@ -33,7 +33,7 @@ Student of System Analysis and Development, working to improve and learn more ab
   <b>Contact me and let's build everything you need.</b>
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/arthur-rosa-0bb719446/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:arthurmrosa07@gmail.com">
